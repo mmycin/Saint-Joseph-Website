@@ -1,6 +1,3 @@
-Here’s a revised README for your "SJC Notice App" that reflects the correct tech stack and details:
-
----
 
 # SJC Notice App
 
